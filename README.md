@@ -1,2 +1,4 @@
 # ExportFromGitBucket
 Issue/PullRequest取得
+
+GitHubに移管した際、CommitコメントとのリンクがおかしくなるのでGitHubへIssue/PullRequestのデータも移管したい
