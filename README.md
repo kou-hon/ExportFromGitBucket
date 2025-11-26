@@ -13,7 +13,7 @@ GitHubに移管した際、Commitコメントとのリンクがおかしくな�
 ## 使い方
 
 ```
-$ ExportFromGitBucket.exe https://hogehoge.com/gitbucket/OWNER/REPO tokensomething
+$ ExportFromGitBucket.exe https://hogehoge.com/gitbucket/ OWNER/REPO tokensomething
 ```
 
 ## 出力
